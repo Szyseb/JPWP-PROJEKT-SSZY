@@ -3,15 +3,15 @@ Sebastian Szyszło
 Numer albumu: 197609
 Kierunek: Elektronika i Telekomunikacja
 
-Tytuł gry:
-Doctor Simulator
+Tytuł gry
+PCB - Perfect Circuit Builder
 
-Technologia wykonania:
-Język programowania: JAVA
+Technologia wykonania
+Język programowania: Java
 Biblioteki GUI: Swing
 
-Cel projektu:
-Nauka podejmowania właściwych decyzji medycznych, zarządzania szpitalem. Gra rozwija umiejętności diagnozowania objawów i stosowania odpowiednich metod leczenia, radzenia sobie z sytuacjami kryzysowymi, uczy podstaw pierwszej pomocy.
+Cel projektu
+Nauka podejmowania właściwych decyzji inżynierskich w elektronice i projektowaniu PCB. Gra rozwija umiejętności diagnozowania usterek na podstawie objawów układu, doboru elementów i lutowania, radzenia sobie z awariami elektroniki, a także uczy przeprowadzania procesu pomiarów, czytania not katalogowych i zasad projektowania PCB.
 
-Krótki opis planowanej gry:
-Doctor Simulator to gra symulacyjna, w której gracz wciela się w rolę lekarza. Poruszając się po szpitalu, diagnozuje pacjentów na podstawie podanych objawów i stosuje odpowiednie leczenie. W grze występują także sytuacje kryzysowe, takie jak nagłe przypadki wymagające pierwszej pomocy czy interwencje z udziałem policji. W miarę postępów gracz może rozbudowywać szpital, dokupując nowe łóżka i powiększając mapę placówki, co zwiększa możliwości obsługi pacjentów.
+Krótki opis planowanej gry
+PCB - Perfect Circuit Builder to gra symulacyjna, przeznaczona dla przyszłych inżynierów elektroniki. Gra polega na prowadzeniu wirtualnego laboratorium i stanowiska do projektowania, diagnozy i napraw układów elektronicznych. Podczas rozgrywki gracz pracuje z prostymi i złożonymi obwodami, dobiera komponenty na podstawie wymagań i not katalogowych, następnie montuje je na płytkach drukowanych i wykonuje pomiary. Jeden z etapów gry będzie polegał na identyfikacji i naprawie usterek takich jak: zwarcia, przegrzewanie elementów, tętnienia zasilania czy przepalone ściezki.
